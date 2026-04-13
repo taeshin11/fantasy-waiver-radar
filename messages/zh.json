@@ -1,0 +1,113 @@
+{
+  "nav": {
+    "home": "首页",
+    "nfl": "NFL",
+    "nba": "NBA",
+    "mlb": "MLB",
+    "nhl": "NHL",
+    "rankings": "排名",
+    "tagline": "梦幻弃权雷达"
+  },
+  "home": {
+    "title": "梦幻弃权区热门球员",
+    "subtitle": "NFL、NBA、MLB和NHL实时热门选秀",
+    "lastUpdated": "最后更新",
+    "minutesAgo": "分钟前",
+    "trendingAdds": "本周热门添加",
+    "allSports": "所有运动",
+    "filterByPosition": "按位置筛选",
+    "all": "全部"
+  },
+  "player": {
+    "ownership": "拥有率",
+    "addRate": "添加率",
+    "dropRate": "放弃率",
+    "projectedPoints": "预测积分",
+    "fantasyPoints": "梦幻积分",
+    "position": "位置",
+    "team": "球队",
+    "injuryReplacement": "伤病替补",
+    "mustAdd": "必须添加",
+    "stream": "流式",
+    "stash": "储备",
+    "watch": "观察",
+    "hot": "火热",
+    "rising": "上升",
+    "neutral": "中性",
+    "viewProfile": "查看资料",
+    "ownershipTrend": "拥有趋势",
+    "weeklyProjection": "每周预测",
+    "addRecommendation": "添加推荐",
+    "statsThisSeason": "本赛季统计",
+    "points": "积分",
+    "rebounds": "篮板",
+    "assists": "助攻",
+    "steals": "抢断"
+  },
+  "sports": {
+    "nfl": "NFL",
+    "nba": "NBA",
+    "mlb": "MLB",
+    "nhl": "NHL",
+    "football": "美式足球",
+    "basketball": "篮球",
+    "baseball": "棒球",
+    "hockey": "冰球"
+  },
+  "positions": {
+    "QB": "四分卫",
+    "RB": "跑卫",
+    "WR": "外接手",
+    "TE": "紧端锋",
+    "PG": "控球后卫",
+    "SG": "得分后卫",
+    "SF": "小前锋",
+    "PF": "大前锋",
+    "C": "中锋",
+    "SP": "先发投手",
+    "RP": "救援投手",
+    "1B": "一垒手",
+    "2B": "二垒手",
+    "3B": "三垒手",
+    "SS": "游击手",
+    "OF": "外野手",
+    "LW": "左翼",
+    "RW": "右翼",
+    "D": "防守",
+    "G": "守门员"
+  },
+  "rankings": {
+    "title": "整体弃权优先排名",
+    "subtitle": "所有运动顶级弃权目标",
+    "rank": "排名",
+    "player": "球员",
+    "sport": "运动",
+    "recommendation": "推荐",
+    "trending": "趋势"
+  },
+  "footer": {
+    "visitorsToday": "今日访客",
+    "totalVisitors": "总访客",
+    "disclaimer": "仅供娱乐目的。梦幻体育涉及风险。",
+    "copyright": "FantasyWaiverRadar"
+  },
+  "seo": {
+    "homeTitle": "梦幻弃权热门球员2025 — NFL、NBA、MLB、NHL",
+    "homeDescription": "追踪NFL、NBA、MLB和NHL中的热门弃权球员。",
+    "nflTitle": "NFL弃权热门球员 — 梦幻橄榄球2025",
+    "nbaTitle": "NBA弃权流式选秀 — 梦幻篮球2025",
+    "mlbTitle": "MLB弃权流式投手 — 梦幻棒球2025",
+    "nhlTitle": "NHL弃权流式 — 梦幻冰球2025",
+    "rankingsTitle": "梦幻弃权排名 — 所有运动2025"
+  },
+  "faq": {
+    "q1": "梦幻体育中的弃权区是什么？",
+    "a1": "弃权区是当前不在任何梦幻球队名单上的可用球员列表。",
+    "q2": "我如何知道从弃权区添加哪些球员？",
+    "a2": "寻找添加率高、拥有率低、带有'必须添加'或'流式'标签的球员。",
+    "q3": "数据多久更新一次？",
+    "a3": "球员趋势数据根据最新新闻和伤病报告每周更新。",
+    "q4": "拥有率意味着什么？",
+    "a4": "拥有率显示有多少梦幻联赛的名单中有这名球员。"
+  }
+}

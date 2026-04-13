@@ -1,0 +1,113 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "nfl": "NFL",
+    "nba": "NBA",
+    "mlb": "MLB",
+    "nhl": "NHL",
+    "rankings": "Classements",
+    "tagline": "Radar Waiver Wire Fantasy"
+  },
+  "home": {
+    "title": "Joueurs Tendance sur le Waiver Wire Fantasy",
+    "subtitle": "Picks tendance en temps réel dans NFL, NBA, MLB et NHL",
+    "lastUpdated": "Dernière mise à jour",
+    "minutesAgo": "minutes ago",
+    "trendingAdds": "Ajouts Tendance Cette Semaine",
+    "allSports": "Tous les Sports",
+    "filterByPosition": "Filtrer par Position",
+    "all": "Tous"
+  },
+  "player": {
+    "ownership": "Possession",
+    "addRate": "Taux d'Ajout",
+    "dropRate": "Taux de Retrait",
+    "projectedPoints": "Points Projetés",
+    "fantasyPoints": "Points Fantasy",
+    "position": "Position",
+    "team": "Équipe",
+    "injuryReplacement": "Remplacement Blessure",
+    "mustAdd": "À Ajouter",
+    "stream": "Streamer",
+    "stash": "Réserver",
+    "watch": "Observer",
+    "hot": "Chaud",
+    "rising": "En Hausse",
+    "neutral": "Neutre",
+    "viewProfile": "Voir Profil",
+    "ownershipTrend": "Tendance de Possession",
+    "weeklyProjection": "Projection Hebdomadaire",
+    "addRecommendation": "Recommandation d'Ajout",
+    "statsThisSeason": "Stats Cette Saison",
+    "points": "Points",
+    "rebounds": "Rebonds",
+    "assists": "Passes Décisives",
+    "steals": "Interceptions"
+  },
+  "sports": {
+    "nfl": "NFL",
+    "nba": "NBA",
+    "mlb": "MLB",
+    "nhl": "NHL",
+    "football": "Football Américain",
+    "basketball": "Basketball",
+    "baseball": "Baseball",
+    "hockey": "Hockey"
+  },
+  "positions": {
+    "QB": "Quarterback",
+    "RB": "Running Back",
+    "WR": "Wide Receiver",
+    "TE": "Tight End",
+    "PG": "Meneur",
+    "SG": "Arrière",
+    "SF": "Ailier",
+    "PF": "Ailier Fort",
+    "C": "Pivot",
+    "SP": "Lanceur Partant",
+    "RP": "Releveur",
+    "1B": "Première Base",
+    "2B": "Deuxième Base",
+    "3B": "Troisième Base",
+    "SS": "Arrêt Court",
+    "OF": "Voltigeur",
+    "LW": "Ailier Gauche",
+    "RW": "Ailier Droit",
+    "D": "Défenseur",
+    "G": "Gardien"
+  },
+  "rankings": {
+    "title": "Classements Priorité Waiver Globale",
+    "subtitle": "Meilleures cibles waiver dans tous les sports",
+    "rank": "Rang",
+    "player": "Joueur",
+    "sport": "Sport",
+    "recommendation": "Recommandation",
+    "trending": "Tendance"
+  },
+  "footer": {
+    "visitorsToday": "Visiteurs aujourd'hui",
+    "totalVisitors": "Total visiteurs",
+    "disclaimer": "À des fins de divertissement uniquement. Les sports fantasy comportent des risques.",
+    "copyright": "FantasyWaiverRadar"
+  },
+  "seo": {
+    "homeTitle": "Joueurs Tendance Waiver Wire Fantasy 2025 — NFL, NBA, MLB, NHL",
+    "homeDescription": "Suivez les joueurs tendance sur le waiver wire dans NFL, NBA, MLB et NHL.",
+    "nflTitle": "NFL Waiver Wire Tendance — Fantasy Football 2025",
+    "nbaTitle": "NBA Streamers Waiver — Fantasy Basketball 2025",
+    "mlbTitle": "MLB Streamers Waiver — Fantasy Baseball 2025",
+    "nhlTitle": "NHL Streamers Waiver — Fantasy Hockey 2025",
+    "rankingsTitle": "Classements Waiver Fantasy — Tous Sports 2025"
+  },
+  "faq": {
+    "q1": "Qu'est-ce que le waiver wire dans les sports fantasy?",
+    "a1": "Le waiver wire est une liste de joueurs disponibles qui ne sont actuellement dans le roster d'aucune équipe fantasy.",
+    "q2": "Comment savoir quels joueurs ajouter des waivers?",
+    "a2": "Cherchez des joueurs avec un taux d'ajout élevé, une faible possession et des badges 'À Ajouter' ou 'Streamer'.",
+    "q3": "À quelle fréquence les données sont-elles mises à jour?",
+    "a3": "Les données de tendances des joueurs sont mises à jour chaque semaine basé sur les dernières nouvelles.",
+    "q4": "Que signifie le pourcentage de possession?",
+    "a4": "Le pourcentage de possession indique dans combien de ligues fantasy ce joueur est dans un roster."
+  }
+}

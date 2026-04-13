@@ -1,0 +1,113 @@
+{
+  "nav": {
+    "home": "Home",
+    "nfl": "NFL",
+    "nba": "NBA",
+    "mlb": "MLB",
+    "nhl": "NHL",
+    "rankings": "Rankings",
+    "tagline": "Fantasy Waiver Wire Radar"
+  },
+  "home": {
+    "title": "Fantasy Waiver Wire Trending Players",
+    "subtitle": "Real-time trending pickups across NFL, NBA, MLB & NHL",
+    "lastUpdated": "Last updated",
+    "minutesAgo": "minutes ago",
+    "trendingAdds": "Trending Adds This Week",
+    "allSports": "All Sports",
+    "filterByPosition": "Filter by Position",
+    "all": "All"
+  },
+  "player": {
+    "ownership": "Ownership",
+    "addRate": "Add Rate",
+    "dropRate": "Drop Rate",
+    "projectedPoints": "Projected Points",
+    "fantasyPoints": "Fantasy Points",
+    "position": "Position",
+    "team": "Team",
+    "injuryReplacement": "Injury Replacement",
+    "mustAdd": "Must Add",
+    "stream": "Stream",
+    "stash": "Stash",
+    "watch": "Watch",
+    "hot": "Hot",
+    "rising": "Rising",
+    "neutral": "Neutral",
+    "viewProfile": "View Profile",
+    "ownershipTrend": "Ownership Trend",
+    "weeklyProjection": "Weekly Projection",
+    "addRecommendation": "Add Recommendation",
+    "statsThisSeason": "Stats This Season",
+    "points": "Points",
+    "rebounds": "Rebounds",
+    "assists": "Assists",
+    "steals": "Steals"
+  },
+  "sports": {
+    "nfl": "NFL",
+    "nba": "NBA",
+    "mlb": "MLB",
+    "nhl": "NHL",
+    "football": "Football",
+    "basketball": "Basketball",
+    "baseball": "Baseball",
+    "hockey": "Hockey"
+  },
+  "positions": {
+    "QB": "Quarterback",
+    "RB": "Running Back",
+    "WR": "Wide Receiver",
+    "TE": "Tight End",
+    "PG": "Point Guard",
+    "SG": "Shooting Guard",
+    "SF": "Small Forward",
+    "PF": "Power Forward",
+    "C": "Center",
+    "SP": "Starting Pitcher",
+    "RP": "Relief Pitcher",
+    "1B": "First Base",
+    "2B": "Second Base",
+    "3B": "Third Base",
+    "SS": "Shortstop",
+    "OF": "Outfield",
+    "LW": "Left Wing",
+    "RW": "Right Wing",
+    "D": "Defense",
+    "G": "Goaltender"
+  },
+  "rankings": {
+    "title": "Overall Waiver Priority Rankings",
+    "subtitle": "Top waiver wire targets across all sports",
+    "rank": "Rank",
+    "player": "Player",
+    "sport": "Sport",
+    "recommendation": "Recommendation",
+    "trending": "Trending"
+  },
+  "footer": {
+    "visitorsToday": "Visitors today",
+    "totalVisitors": "Total visitors",
+    "disclaimer": "For entertainment purposes only. Fantasy sports involve risk.",
+    "copyright": "FantasyWaiverRadar"
+  },
+  "seo": {
+    "homeTitle": "Fantasy Waiver Wire Trending Players 2025 — NFL, NBA, MLB, NHL",
+    "homeDescription": "Track trending waiver wire players across NFL, NBA, MLB and NHL. See add rates, ownership percentages, and expert recommendations updated weekly.",
+    "nflTitle": "NFL Waiver Wire Trending Players — Fantasy Football 2025",
+    "nbaTitle": "NBA Waiver Wire Streaming Pickups — Fantasy Basketball 2025",
+    "mlbTitle": "MLB Waiver Wire Streamers — Fantasy Baseball 2025",
+    "nhlTitle": "NHL Waiver Wire Streamers — Fantasy Hockey 2025",
+    "rankingsTitle": "Fantasy Waiver Wire Rankings — All Sports 2025"
+  },
+  "faq": {
+    "q1": "What is a waiver wire in fantasy sports?",
+    "a1": "The waiver wire is a list of available players not currently on any fantasy team's roster. You can add these players to your team through waiver claims.",
+    "q2": "How do I know which players to add from waivers?",
+    "a2": "Look for players with high add rates (trending up), low ownership percentages, and 'Must Add' or 'Stream' badges on FantasyWaiverRadar.",
+    "q3": "How often is the data updated?",
+    "a3": "Player trending data is updated weekly based on the latest news, injury reports, and fantasy community activity.",
+    "q4": "What does the ownership percentage mean?",
+    "a4": "Ownership percentage shows how many fantasy leagues have this player on a roster. Lower ownership means more availability across leagues."
+  }
+}

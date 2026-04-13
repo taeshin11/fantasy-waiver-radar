@@ -1,0 +1,113 @@
+{
+  "nav": {
+    "home": "홈",
+    "nfl": "NFL",
+    "nba": "NBA",
+    "mlb": "MLB",
+    "nhl": "NHL",
+    "rankings": "순위",
+    "tagline": "판타지 웨이버 와이어 레이더"
+  },
+  "home": {
+    "title": "판타지 웨이버 와이어 트렌딩 선수",
+    "subtitle": "NFL, NBA, MLB, NHL 실시간 인기 픽업",
+    "lastUpdated": "마지막 업데이트",
+    "minutesAgo": "분 전",
+    "trendingAdds": "이번 주 트렌딩 추가",
+    "allSports": "전체 스포츠",
+    "filterByPosition": "포지션 필터",
+    "all": "전체"
+  },
+  "player": {
+    "ownership": "보유율",
+    "addRate": "추가율",
+    "dropRate": "드롭율",
+    "projectedPoints": "예상 포인트",
+    "fantasyPoints": "판타지 포인트",
+    "position": "포지션",
+    "team": "팀",
+    "injuryReplacement": "부상 대체",
+    "mustAdd": "필수 추가",
+    "stream": "스트림",
+    "stash": "스태시",
+    "watch": "관찰",
+    "hot": "핫",
+    "rising": "상승",
+    "neutral": "중립",
+    "viewProfile": "프로필 보기",
+    "ownershipTrend": "보유 트렌드",
+    "weeklyProjection": "주간 예측",
+    "addRecommendation": "추가 추천",
+    "statsThisSeason": "이번 시즌 통계",
+    "points": "포인트",
+    "rebounds": "리바운드",
+    "assists": "어시스트",
+    "steals": "스틸"
+  },
+  "sports": {
+    "nfl": "NFL",
+    "nba": "NBA",
+    "mlb": "MLB",
+    "nhl": "NHL",
+    "football": "미식축구",
+    "basketball": "농구",
+    "baseball": "야구",
+    "hockey": "하키"
+  },
+  "positions": {
+    "QB": "쿼터백",
+    "RB": "러닝백",
+    "WR": "와이드 리시버",
+    "TE": "타이트 엔드",
+    "PG": "포인트 가드",
+    "SG": "슈팅 가드",
+    "SF": "스몰 포워드",
+    "PF": "파워 포워드",
+    "C": "센터",
+    "SP": "선발 투수",
+    "RP": "구원 투수",
+    "1B": "1루수",
+    "2B": "2루수",
+    "3B": "3루수",
+    "SS": "유격수",
+    "OF": "외야수",
+    "LW": "좌익",
+    "RW": "우익",
+    "D": "수비수",
+    "G": "골키퍼"
+  },
+  "rankings": {
+    "title": "전체 웨이버 우선순위 순위",
+    "subtitle": "모든 스포츠 최고 웨이버 타겟",
+    "rank": "순위",
+    "player": "선수",
+    "sport": "스포츠",
+    "recommendation": "추천",
+    "trending": "트렌딩"
+  },
+  "footer": {
+    "visitorsToday": "오늘 방문자",
+    "totalVisitors": "총 방문자",
+    "disclaimer": "오락 목적으로만 제공됩니다. 판타지 스포츠는 위험을 수반합니다.",
+    "copyright": "FantasyWaiverRadar"
+  },
+  "seo": {
+    "homeTitle": "판타지 웨이버 와이어 트렌딩 선수 2025 — NFL, NBA, MLB, NHL",
+    "homeDescription": "NFL, NBA, MLB, NHL의 트렌딩 웨이버 선수를 추적하세요.",
+    "nflTitle": "NFL 웨이버 와이어 트렌딩 선수 — 판타지 풋볼 2025",
+    "nbaTitle": "NBA 웨이버 스트리밍 픽업 — 판타지 농구 2025",
+    "mlbTitle": "MLB 웨이버 스트리머 — 판타지 야구 2025",
+    "nhlTitle": "NHL 웨이버 스트리머 — 판타지 하키 2025",
+    "rankingsTitle": "판타지 웨이버 순위 — 전체 스포츠 2025"
+  },
+  "faq": {
+    "q1": "판타지 스포츠에서 웨이버 와이어란 무엇인가요?",
+    "a1": "웨이버 와이어는 현재 어떤 판타지 팀 로스터에도 없는 이용 가능한 선수 목록입니다.",
+    "q2": "웨이버에서 어떤 선수를 추가해야 할지 어떻게 알 수 있나요?",
+    "a2": "높은 추가율, 낮은 보유율, '필수 추가' 또는 '스트림' 배지가 있는 선수를 찾으세요.",
+    "q3": "데이터는 얼마나 자주 업데이트 되나요?",
+    "a3": "선수 트렌딩 데이터는 최신 뉴스, 부상 보고서를 기반으로 매주 업데이트됩니다.",
+    "q4": "보유율은 무엇을 의미하나요?",
+    "a4": "보유율은 이 선수가 로스터에 있는 판타지 리그의 비율을 나타냅니다."
+  }
+}

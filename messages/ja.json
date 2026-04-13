@@ -1,0 +1,113 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "nfl": "NFL",
+    "nba": "NBA",
+    "mlb": "MLB",
+    "nhl": "NHL",
+    "rankings": "ランキング",
+    "tagline": "ファンタジーウェイバーワイヤーレーダー"
+  },
+  "home": {
+    "title": "ファンタジーウェイバーワイヤートレンド選手",
+    "subtitle": "NFL、NBA、MLB、NHLのリアルタイムトレンドピックアップ",
+    "lastUpdated": "最終更新",
+    "minutesAgo": "分前",
+    "trendingAdds": "今週のトレンド追加",
+    "allSports": "全スポーツ",
+    "filterByPosition": "ポジションフィルター",
+    "all": "全て"
+  },
+  "player": {
+    "ownership": "保有率",
+    "addRate": "追加率",
+    "dropRate": "ドロップ率",
+    "projectedPoints": "予測ポイント",
+    "fantasyPoints": "ファンタジーポイント",
+    "position": "ポジション",
+    "team": "チーム",
+    "injuryReplacement": "怪我の代替",
+    "mustAdd": "必須追加",
+    "stream": "ストリーム",
+    "stash": "スタッシュ",
+    "watch": "ウォッチ",
+    "hot": "ホット",
+    "rising": "上昇中",
+    "neutral": "中立",
+    "viewProfile": "プロフィール表示",
+    "ownershipTrend": "保有トレンド",
+    "weeklyProjection": "週間予測",
+    "addRecommendation": "追加推薦",
+    "statsThisSeason": "今シーズンの成績",
+    "points": "ポイント",
+    "rebounds": "リバウンド",
+    "assists": "アシスト",
+    "steals": "スティール"
+  },
+  "sports": {
+    "nfl": "NFL",
+    "nba": "NBA",
+    "mlb": "MLB",
+    "nhl": "NHL",
+    "football": "アメリカンフットボール",
+    "basketball": "バスケットボール",
+    "baseball": "野球",
+    "hockey": "ホッケー"
+  },
+  "positions": {
+    "QB": "クォーターバック",
+    "RB": "ランニングバック",
+    "WR": "ワイドレシーバー",
+    "TE": "タイトエンド",
+    "PG": "ポイントガード",
+    "SG": "シューティングガード",
+    "SF": "スモールフォワード",
+    "PF": "パワーフォワード",
+    "C": "センター",
+    "SP": "先発投手",
+    "RP": "救援投手",
+    "1B": "一塁手",
+    "2B": "二塁手",
+    "3B": "三塁手",
+    "SS": "遊撃手",
+    "OF": "外野手",
+    "LW": "レフトウィング",
+    "RW": "ライトウィング",
+    "D": "ディフェンス",
+    "G": "ゴールテンダー"
+  },
+  "rankings": {
+    "title": "全体ウェイバー優先ランキング",
+    "subtitle": "全スポーツのトップウェイバーターゲット",
+    "rank": "順位",
+    "player": "選手",
+    "sport": "スポーツ",
+    "recommendation": "推薦",
+    "trending": "トレンド"
+  },
+  "footer": {
+    "visitorsToday": "本日の訪問者",
+    "totalVisitors": "総訪問者",
+    "disclaimer": "エンターテインメント目的のみ。ファンタジースポーツにはリスクが伴います。",
+    "copyright": "FantasyWaiverRadar"
+  },
+  "seo": {
+    "homeTitle": "ファンタジーウェイバーワイヤートレンド選手2025 — NFL、NBA、MLB、NHL",
+    "homeDescription": "NFL、NBA、MLB、NHLのトレンドウェイバー選手を追跡します。",
+    "nflTitle": "NFLウェイバーワイヤートレンド選手 — ファンタジーフットボール2025",
+    "nbaTitle": "NBAウェイバーストリーミングピックアップ — ファンタジーバスケットボール2025",
+    "mlbTitle": "MLBウェイバーストリーマー — ファンタジー野球2025",
+    "nhlTitle": "NHLウェイバーストリーマー — ファンタジーホッケー2025",
+    "rankingsTitle": "ファンタジーウェイバーランキング — 全スポーツ2025"
+  },
+  "faq": {
+    "q1": "ファンタジースポーツでウェイバーワイヤーとは何ですか？",
+    "a1": "ウェイバーワイヤーは、現在どのファンタジーチームのロスターにもいない利用可能な選手のリストです。",
+    "q2": "ウェイバーからどの選手を追加すべきか、どうすればわかりますか？",
+    "a2": "追加率が高く、保有率が低く、「必須追加」や「ストリーム」バッジがある選手を探してください。",
+    "q3": "データはどのくらいの頻度で更新されますか？",
+    "a3": "選手のトレンドデータは、最新のニュースと怪我の報告に基づいて毎週更新されます。",
+    "q4": "保有率は何を意味しますか？",
+    "a4": "保有率は、この選手がロスターにいるファンタジーリーグの割合を示しています。"
+  }
+}

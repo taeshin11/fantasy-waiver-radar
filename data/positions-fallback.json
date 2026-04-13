@@ -1,0 +1,6 @@
+{
+  "NFL": ["QB", "RB", "WR", "TE", "K", "DST"],
+  "NBA": ["PG", "SG", "SF", "PF", "C"],
+  "MLB": ["SP", "RP", "C", "1B", "2B", "3B", "SS", "OF"],
+  "NHL": ["C", "LW", "RW", "D", "G"]
+}
