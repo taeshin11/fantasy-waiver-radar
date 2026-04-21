@@ -1,6 +1,38 @@
 [
-  { "id": "NFL", "name": "NFL", "fullName": "National Football League", "season": "2024-25", "icon": "🏈", "color": "#013369", "description": "Fantasy football waiver wire trending players" },
-  { "id": "NBA", "name": "NBA", "fullName": "National Basketball Association", "season": "2024-25", "icon": "🏀", "color": "#C9082A", "description": "Fantasy basketball streaming pickups" },
-  { "id": "MLB", "name": "MLB", "fullName": "Major League Baseball", "season": "2025", "icon": "⚾", "color": "#002D72", "description": "Fantasy baseball waiver streamers" },
-  { "id": "NHL", "name": "NHL", "fullName": "National Hockey League", "season": "2024-25", "icon": "🏒", "color": "#000000", "description": "Fantasy hockey waiver wire targets" }
+  {
+    "id": "NFL",
+    "name": "NFL",
+    "fullName": "National Football League",
+    "season": "2024-25",
+    "icon": "🏈",
+    "color": "#013369",
+    "description": "Fantasy football waiver wire trending players"
+  },
+  {
+    "id": "NBA",
+    "name": "NBA",
+    "fullName": "National Basketball Association",
+    "season": "2024-25",
+    "icon": "🏀",
+    "color": "#C9082A",
+    "description": "Fantasy basketball streaming pickups"
+  },
+  {
+    "id": "MLB",
+    "name": "MLB",
+    "fullName": "Major League Baseball",
+    "season": "2026",
+    "icon": "⚾",
+    "color": "#002D72",
+    "description": "Fantasy baseball waiver streamers"
+  },
+  {
+    "id": "NHL",
+    "name": "NHL",
+    "fullName": "National Hockey League",
+    "season": "2024-25",
+    "icon": "🏒",
+    "color": "#000000",
+    "description": "Fantasy hockey waiver wire targets"
+  }
 ]
